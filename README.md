@@ -6,7 +6,7 @@ I made this project because I have a MultiBoard already set up at my desk but it
 
 ## How I made it
 I used Tinkercad to make this model, and no problems arose!
-![Model in tinkercad, deconstructed](tinkercad-marble-pieces.png)
+![Model in tinkercad, deconstructed](tinkercad-model-pieces.png)
 
 ## How to set this up for yourself!
 ### To set one up for yourself, you'll need:
