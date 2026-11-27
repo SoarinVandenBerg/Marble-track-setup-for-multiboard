@@ -6,7 +6,7 @@ I made this project because I have a MultiBoard already set up at my desk but it
 
 ## How I made it
 I used Tinkercad to make this model, and no problems arose!
-![Model in tinkercad, deconstructed](tinkercad-marble-pieces.png)
+![Model in tinkercad, deconstructed](photos/tinkercad-marble-pieces.png)
 
 ## How to set this up for yourself!
 ### To set one up for yourself, you'll need:
@@ -29,7 +29,7 @@ Here's a step-by-step guide on how to set up your own:
 8. Test it! Place a few marbles in the bottom of the track, so they get picked up by the screw and turn on the motor. They should quickly start popping out the top and going down the track. If they're falling off the track, adjust where necessary.
 
 Here's an example of a functioning track!
-![Example Track](example-track.png)
+![Example Track](photos/test-track.png)
 
 ### Print the parts with these settings:
 -A nozzle size of 0.4 or smaller\
