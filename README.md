@@ -55,5 +55,5 @@ Because this track is fully modular, the total cost depends on how large you bui
 | Vertical MultiBoard Mount (1g) | $0.05 | None | Calculated via Printing Legion ($50/kg) |
 
 ## AI DISCLOSURE
-NO AI was used to make this, it was made by hand in Tinkercad.
+NO AI was used to make this, it was made by hand!
 
