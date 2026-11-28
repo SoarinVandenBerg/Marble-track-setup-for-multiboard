@@ -36,6 +36,28 @@ Here's an example of a functioning track!
 -Infill of 10% or higher\
 -Support at 75 degrees
 
+### Bill of Materials with Modular Pricing
+Because this track is fully modular, the total cost depends on how large you build it. 
+
+| Item | Amount (Per Piece) | Link | Note |
+|---|---|---|---|
+| Bambu Lab Marble Kit | $10.40 | [Bambu Lab Store](https://ca.store.bambulab.com/products/marble-run-components-kit-003) | Base kit required |
+| Superglue | $3.00 | None | Any local store |
+| 100mm Archimedes Screw Casing (51g) | $2.55 | None | Calculated via Printing Legion ($50/kg) |
+| 100mm Marble Track (7g) | $0.35 | None | Calculated via Printing Legion ($50/kg) |
+| 100mm Top Archimedes Screw Casing (50g) | $2.50 | None | Calculated via Printing Legion ($50/kg) |
+| 50mm Archimedes Screw Casing (26g) | $1.30 | None | Calculated via Printing Legion ($50/kg) |
+| 50mm Marble Track (15g) | $0.75 | None | Calculated via Printing Legion ($50/kg) |
+| 150mm Marble Track (11g) | $0.55 | None | Calculated via Printing Legion ($50/kg) |
+| Bottom Archimedes Screw (20g) | $1.00 | None | Calculated via Printing Legion ($50/kg) |
+| Bottom of Motor Mount (30g) | $1.50 | None | Calculated via Printing Legion ($50/kg) |
+| Horizontal MultiBoard Mount (1g) | $0.05 | None | Calculated via Printing Legion ($50/kg) |
+| Middle Archimedes Screw (18g) | $0.90 | None | Calculated via Printing Legion ($50/kg) |
+| Small MultiBoard Mount (1g) | $0.05 | None | Calculated via Printing Legion ($50/kg) |
+| Top Archimedes Screw (23g) | $1.15 | None | Calculated via Printing Legion ($50/kg) |
+| Top of Motor Mount (50g) | $2.50 | None | Calculated via Printing Legion ($50/kg) |
+| Vertical MultiBoard Mount (1g) | $0.05 | None | Calculated via Printing Legion ($50/kg) |
+
 ## AI DISCLOSURE
 NO AI was used to make this, it was made by hand in Tinkercad.
 
