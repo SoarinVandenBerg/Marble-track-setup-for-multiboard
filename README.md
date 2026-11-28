@@ -4,10 +4,6 @@ This is a marble track made for [Multiboard](https://multibuild.io) and the [Bam
 ## Why I made this project
 I made this project because I have a MultiBoard already set up at my desk but it has close to nothing on it, and I already had a free code for the marble kit by Bambu Lab!
 
-## How I made it
-I used Tinkercad to make this model, and no problems arose!
-![Model in tinkercad, deconstructed](tinkercad-model-pieces.png)
-
 ## How to set this up for yourself!
 ### To set one up for yourself, you'll need:
 -A MultiBoard already set up (check out [Multiboard](https://multibuild.io) for instructions)\
